@@ -10,7 +10,7 @@ html {
 }
 
 ::selection {
-    color: #000; 
+    color: rgb(114, 145, 180); 
     background: #ff0;
 }
 
